@@ -1,5 +1,5 @@
 {
-  "name": "assets-manager",
+  "name": "rotel-assets-manager",
   "version": "0.0.1",
   "description": "Assets manager",
   "main": "dist/plugin.cjs.js",
